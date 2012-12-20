@@ -1,0 +1,4 @@
+crn-events
+==========
+
+Event Management
